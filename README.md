@@ -28,4 +28,6 @@ https://m.blog.naver.com/brightmakeit/222554935275
 
 ### 라즈베리파이로 키오스크 만들기 
 https://toolify.ai/ko/ai-news-kr/jf6oqhqmhberiwumkdjzerjhjfpfagyo-706197
-
+필요한 것 
+-. microSD card 
+-. 전원, 마우스, hdmi 출력 
