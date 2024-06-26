@@ -18,3 +18,6 @@ https://wikidocs.net/book/483
 ## 라즈베리파이 관련 프로젝트 모음
 아래 사이트 참조, 
 https://projects.raspberrypi.org/en/
+
+## 라즈베리파이 파이썬 예시 
+https://m.blog.naver.com/brightmakeit/222554935275
